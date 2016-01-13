@@ -1,4 +1,5 @@
-# knork
+![image alt text](img/knork-logo-w240.png)
+## Promoting Knowledge Work Practices in Education
 
 The KNORK project provides easily applicable pedagogical approaches supporting novel knowledge work and digital competencies. In the project, we develop and test pedagogical methods, digital tools and teacher training models to improve these competencies and practices in secondary and higher education.
 

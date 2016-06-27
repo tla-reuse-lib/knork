@@ -1,4 +1,4 @@
-<img src="md\img019/media/image01.png" width="624" height="65" />
+<img src="img019/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -32,7 +32,7 @@ Nella formulazione originaria proposta da Aronson (1978), il Jigsaw è una tecni
 
 Le fasi essenziali del Jigsaw possono essere schematicamente rappresentate come nella figura che segue (Fig. 1).
 
-<img src="md\img019/media/image03.png" width="478" height="269" />
+<img src="img019/media/image03.png" width="478" height="269" />
 
 *Figura 1. Le fasi essenziali del Jigsaw *
 

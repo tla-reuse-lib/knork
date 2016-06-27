@@ -1,4 +1,4 @@
-<img src="md\img091/media/image03.png" width="624" height="65" />
+<img src="img091/media/image03.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -34,11 +34,11 @@ Students managed independently the folders’ hierarchical structures by opening
 
 During module 2, students were asked to create a shared object for real customers. Students used Google Docs to create Learning Objects concepts and storyboards, to write e-book contents and an App design. Students used Google Slides to prepare presentations of Serious Games design.
 
-<img src="md\img091/media/image05.png" width="624" height="250" />
+<img src="img091/media/image05.png" width="624" height="250" />
 
 Figure 1. A Google Drawing to realize a collaborative conceptual map about the learning content of the first module: Learning Theories and Technology
 
-<img src="md\img091/media/image02.png" width="624" height="320" />
+<img src="img091/media/image02.png" width="624" height="320" />
 
 Figure 2. A Google Drive doc in which student negotiates the content of a collaborative product to be build, by using the “comments” function
 

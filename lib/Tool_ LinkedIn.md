@@ -1,4 +1,4 @@
-<img src="md\img092/media/image01.png" width="624" height="65" />
+<img src="img092/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -38,10 +38,10 @@ At the end of the course students had to update their LinkedIn's e-portfolio.
 
 -   Website of LinkedIn: [*https://www.linkedin.com/*](https://www.linkedin.com/)
 
-<img src="md\img092/media/image05.png" width="624" height="309" />
+<img src="img092/media/image05.png" width="624" height="309" />
 
 Figure 1. Endorsements in a LinkedIn profile.
 
-<img src="md\img092/media/image03.png" width="624" height="645" />
+<img src="img092/media/image03.png" width="624" height="645" />
 
 Figure 2. A LinkedIn group.

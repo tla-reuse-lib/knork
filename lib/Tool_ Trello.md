@@ -1,4 +1,4 @@
-<img src="md\img099/media/image01.png" width="624" height="65" />
+<img src="img099/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -36,7 +36,7 @@ Some examples:
 
 2.  Trello was used for the second time by one group of students for a Health Informatics project where they needed to do three assignments and manage their group work in order to make sure that everything went fine. (The board is private, so an image is added for demonstration purposes. The teacher of the course was not added as a member of the board)
 
-> <img src="md\img099/media/image03.png" width="616" height="328" />
+> <img src="img099/media/image03.png" width="616" height="328" />
 
 **Materials and links**
 

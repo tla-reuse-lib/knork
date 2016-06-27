@@ -1,4 +1,4 @@
-<img src="md\img098/media/image01.png" width="624" height="65" />
+<img src="img098/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -30,7 +30,7 @@ TodaysMeet has been used, for example, at the beginning of an educational sessio
 
 In Figure 1 is a screenshot from a wall where workshop participants of the international [*Digi4Adults*](http://www.takk.fi/takk/hanketoiminta/kaeynnissae_olevat_hankkeet/digi4adults.html) project wrote questions and comments about pedagogical perspectives on learning in virtual spaces at the beginning of a workshop.
 
-<img src="md\img098/media/image03.png" width="624" height="448" />
+<img src="img098/media/image03.png" width="624" height="448" />
 
 Figure 1. Screenshot of a TodaysMeet wall.
 

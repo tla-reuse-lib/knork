@@ -1,4 +1,4 @@
-<img src="md\img059/media/image01.png" width="624" height="65" />
+<img src="img059/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -189,7 +189,7 @@ ICT tools used in the course have been:
 
 Working process have been a duration of 20 hours lessons organized in 4 phases as per flow chart shown below.
 
-<img src="md\img059/media/image03.png" width="222" height="343" />
+<img src="img059/media/image03.png" width="222" height="343" />
 
 Dashed box and links refer to phases 5 and 6 projected but not implemented because of the limited time available.
 

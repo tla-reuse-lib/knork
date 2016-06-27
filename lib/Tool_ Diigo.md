@@ -1,4 +1,4 @@
-<img src="md\img086/media/image04.png" width="624" height="65" />
+<img src="img086/media/image04.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -38,11 +38,11 @@ Main features
 
 -   *Groups*: share items with colleagues, classmates, students and friends through Diigo.
 
-<img src="md\img086/media/image05.png" width="622" height="219" />
+<img src="img086/media/image05.png" width="622" height="219" />
 
 Figure 1. A part of a web page with a highlight and comment, which are shared to a particular group.
 
-<img src="md\img086/media/image03.png" width="624" height="725" />
+<img src="img086/media/image03.png" width="624" height="725" />
 
 <span id="h.gjdgxs" class="anchor"></span>Figure 2. It presents how the tagging, assigning the page to a group, descriptions and so on can be added.
 

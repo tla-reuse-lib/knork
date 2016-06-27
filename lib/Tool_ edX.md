@@ -1,4 +1,4 @@
-<img src="md\img088/media/image05.png" width="624" height="65" />
+<img src="img088/media/image05.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -26,7 +26,7 @@ EdX was used in a course about e-learning environments at the Helsinki Metropoli
 
 Setting-up the edX course was fairly straightforward for the teacher having experience of various learning platforms. The edX Studio is an easy to use tool for creating the course structure, developing the learning materials and adding exercises and tools. Figure 1 presents the user interface for creating the course structure and adding content in edX Studio.
 
-<img src="md\img088/media/image06.png" width="624" height="353" />
+<img src="img088/media/image06.png" width="624" height="353" />
 
 Figure 1. The user interface of edX Studio.
 
@@ -34,13 +34,13 @@ Students found edX easy to use due to the logical and consistent user interface.
 
 Students appreciated the access to external tools and resources from within the course material. EdX allows the teacher to integrate external tools within the course content at various ways. Any web based application can be put into a frame where students can use it directly or open the external application in another window if they wish. It is easy to view the status and contribute to tasks in the external application, such as Padlet in Figure 2.
 
-<img src="md\img088/media/image04.png" width="624" height="547" />
+<img src="img088/media/image04.png" width="624" height="547" />
 
 Figure 2. External application (Padlet) within the course content in edX.
 
 EdX has been designed for MOOCs and, therefore, the assignment tools are geared towards automatic assessment. The current version misses good tools for staff assessed assignments but one can use, e.g., Google Forms for this purpose easily, as shown in the Figure 3. Google tools can be easily integrated into the course. Also, edX is currently being extended to support blended learning scenarios better.
 
-<img src="md\img088/media/image07.png" width="624" height="525" />
+<img src="img088/media/image07.png" width="624" height="525" />
 
 Figure 3. Use of Google Forms for teacher-assessed group assignment.
 

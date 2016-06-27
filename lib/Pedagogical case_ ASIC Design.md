@@ -1,4 +1,4 @@
-<img src="md\img058/media/image02.png" width="624" height="65" />
+<img src="img058/media/image02.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -155,7 +155,7 @@ Before the course starts, the following issues are done:
 
 The infrastructure for collaborative learning consists of public cloud based services, combined in a way that supports electronic design workflow.
 
-<img src="md\img058/media/image03.png" width="315" height="207" />
+<img src="img058/media/image03.png" width="315" height="207" />
 
 Google Tools are used for collaborative development of a common shared object in the cloud – Google Drive, Docs, Sheets; *Google calendar* – to set deadlines and to monitor progress – assignments, intermediate stages reporting, deadline for submission of the project.
 

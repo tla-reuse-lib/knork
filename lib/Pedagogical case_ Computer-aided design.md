@@ -1,4 +1,4 @@
-<img src="md\img061/media/image01.png" width="624" height="65" />
+<img src="img061/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -165,7 +165,7 @@ Subject domain(s): Analog and Digital Circuits Design – schematics and printed
 
 Duration:
 
-<img src="md\img061/media/image03.png" width="624" height="312" />
+<img src="img061/media/image03.png" width="624" height="312" />
 
 **Learning goals**
 

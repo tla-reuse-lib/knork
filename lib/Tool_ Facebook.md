@@ -1,4 +1,4 @@
-<span id="h.gjdgxs" class="anchor"></span><img src="md\img089/media/image03.png" width="624" height="65" />
+<span id="h.gjdgxs" class="anchor"></span><img src="img089/media/image03.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -34,7 +34,7 @@ Main features
 
 -   *Creating events.*
 
-<img src="md\img089/media/image02.png" width="534" height="656" />
+<img src="img089/media/image02.png" width="534" height="656" />
 
 Figure 1. The figure displays a course group from 2014. It was used to share files, comment on the files, and create different version of the files. We added relevant images to the group and urgent help was provided by the chat. It was a closed group (see the orange squares).
 

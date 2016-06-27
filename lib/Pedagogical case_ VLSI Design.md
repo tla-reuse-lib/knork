@@ -1,4 +1,4 @@
-<img src="md\img082/media/image02.png" width="624" height="65" />
+<img src="img082/media/image02.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -163,7 +163,7 @@ Before the course starts the following issues needs to be done:
 
 **Tools that support co-construction of shared artifacts**
 
-LTspice<sup>®</sup> <img src="md\img082/media/image03.png" width="69" height="21" /> – Circuit Simulation, Schematic Capture and Waveform Viewer Tool
+LTspice<sup>®</sup> <img src="img082/media/image03.png" width="69" height="21" /> – Circuit Simulation, Schematic Capture and Waveform Viewer Tool
 
 Gnu Electric – Layout design and layout verification tool
 

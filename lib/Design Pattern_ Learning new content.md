@@ -1,4 +1,4 @@
-<img src="md\img010/media/image05.png" width="624" height="65" />
+<img src="img010/media/image05.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -18,7 +18,7 @@
 
 During the past few years it seems that students’ willingness to concentrate on lecture type of content has been decreasing. Furthermore, the trialogical approach on learning puts the project on “center stage” and leaves little energy for more boring, but still important means of learning like lectures. In our university, classrooms have been modified to facilitate trialogical learning. We have changed the traditional computer classrooms into team workspaces with tables organized in teams of six students and got rid of teacher’s table in the front (see Figure 1). While new classroom setup enhances team work at the same time it makes harder to concentrate on long lectures.
 
-<img src="md\img010/media/image02.png" width="214" height="162" /><img src="md\img010/media/image04.png" width="394" height="163" />
+<img src="img010/media/image02.png" width="214" height="162" /><img src="img010/media/image04.png" width="394" height="163" />
 
 Figure 1: On the left “traditional” computer classroom setup, on the right new teamwork centered setup
 

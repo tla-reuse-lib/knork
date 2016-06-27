@@ -1,4 +1,4 @@
-<img src="md\img067/media/image09.png" width="624" height="65" />
+<img src="img067/media/image09.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -179,13 +179,13 @@ In order for the course to be properly built according to Trialogical learning, 
 
 **ICT tool(s)**
 
-<img src="md\img067/media/image06.png" width="624" height="219" />
+<img src="img067/media/image06.png" width="624" height="219" />
 
 **Schedule and working phases**
 
 Below is the timeline for the course, regarding its implementation. Most of the work was carried out before the course initiation and after the course ended (which I will call pre and after phases).
 
-<img src="md\img067/media/image07.png" width="624" height="122" />
+<img src="img067/media/image07.png" width="624" height="122" />
 
 1.  During the Course Initiation, students and the teacher meet and have class activities where the teacher presents the theory of the course.
 
@@ -199,11 +199,11 @@ Below is the timeline for the course, regarding its implementation. Most of the 
 
 Below is the timeline regarding the preparations before the course started (\*)
 
-<img src="md\img067/media/image08.png" width="624" height="138" />
+<img src="img067/media/image08.png" width="624" height="138" />
 
 In the end of the course (\*), a number of steps were followed as well, as it can be seen below:
 
-<img src="md\img067/media/image03.png" width="624" height="114" />
+<img src="img067/media/image03.png" width="624" height="114" />
 
 **Student evaluation**
 

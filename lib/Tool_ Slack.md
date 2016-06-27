@@ -1,4 +1,4 @@
-<img src="md\img096/media/image01.png" width="624" height="65" />
+<img src="img096/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -28,7 +28,7 @@ Students in multidisciplinary courses have been happy to be able to get in-time 
 
 Participants with multiple hats do not have to separate their views – they can see what occurs, e.g., in work and in education (as can be seen in Figure 2 where two Slack installations are presented, one is for work setting, another for educational course setting).
 
-<img src="md\img096/media/image03.png" width="624" height="517" />
+<img src="img096/media/image03.png" width="624" height="517" />
 
 Figure 1. Two settings for Slack, L is for the work and A for a course setting. The active part of the window presents the course’s general channel: the teacher’s posting on materials is presented on the top, message of a joined person below that, and in the bottom part of the figure, the customer of the course has provided some general information that might interest the students in their work.
 

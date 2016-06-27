@@ -1,4 +1,4 @@
-<img src="md\img087/media/image01.png" width="624" height="65" />
+<img src="img087/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -28,7 +28,7 @@ Main features
 
 -   Draw.io offers various templates for creating mock-ups but also other brainstorming and programming templates.
 
-<img src="md\img087/media/image03.png" width="624" height="557" />
+<img src="img087/media/image03.png" width="624" height="557" />
 
 <span id="h.gjdgxs" class="anchor"></span>Figure 1. A start of a mock-up for IoS device. In the left side are visible templates for different devices and for icons and other mock-up elements. Above are the usual File, Edit, View and Arrange options. On the right side is visible the main controls for the elements in the canvas.
 

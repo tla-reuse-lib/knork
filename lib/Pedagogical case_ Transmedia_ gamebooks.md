@@ -1,4 +1,4 @@
-<img src="md\img081/media/image01.png" width="624" height="65" />
+<img src="img081/media/image01.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 

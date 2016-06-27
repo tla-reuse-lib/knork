@@ -1,4 +1,4 @@
-<img src="md\img093/media/image07.png" width="624" height="65" />
+<img src="img093/media/image07.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -46,16 +46,16 @@ For the future we are planning to use other Moodle resources, because differenti
 
 -   Screen shots to the Moodle course pages of the Elearning course in UR Sapienza: [*http://elearning2.uniroma1.it*](http://elearning2.uniroma1.it)
 
-<img src="md\img093/media/image06.jpg" width="513" height="263" />
+<img src="img093/media/image06.jpg" width="513" height="263" />
 
 Our Moodle home-page
 
-<img src="md\img093/media/image04.png" width="624" height="418" />
+<img src="img093/media/image04.png" width="624" height="418" />
 
 Course
 
 home-page with an example of ‘forum’ resource
 
-<img src="md\img093/media/image03.jpg" width="512" height="223" />
+<img src="img093/media/image03.jpg" width="512" height="223" />
 
 Course page with an example of shared video and, below, a link to a Google Drive document)

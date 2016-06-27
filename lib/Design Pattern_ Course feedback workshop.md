@@ -1,4 +1,4 @@
-<img src="md\img003/media/image03.png" width="624" height="65" />
+<img src="img003/media/image03.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -70,7 +70,7 @@ The course feedback workshop was done on the last day of the course following th
 
 6.  Me and myself (I learned a lot/not much, Importance of the things I learned, My satisfaction level with the current major, My contribution to the success of the course, How many hours I used for the course at the school and at home)
 
-<img src="md\img003/media/image02.jpg" width="624" height="237" />
+<img src="img003/media/image02.jpg" width="624" height="237" />
 
 Figure 1. Examples of feedback boards.
 

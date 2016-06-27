@@ -1,4 +1,4 @@
-<img src="md\img062/media/image05.png" width="624" height="65" />
+<img src="img062/media/image05.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -163,11 +163,11 @@ Google Tools are used for collaborative development of a common shared object in
 
 For inter team communications students can choose their preferred tools (chat, conferences, e-mail, forums). For student – teacher communications are used Google applications: Gmail, Calendar, Drive и Google+.
 
-<img src="md\img062/media/image03.png" width="361" height="79" />
+<img src="img062/media/image03.png" width="361" height="79" />
 
 ***Specific tools ***
 
-*LTspice*<sup>®</sup> <img src="md\img062/media/image01.png" width="69" height="21" /> – Free Circuit Simulation, Schematic Capture and Waveform Viewer Tool, Gnuplot and Plotly for graphic visualization of measured data.
+*LTspice*<sup>®</sup> <img src="img062/media/image01.png" width="69" height="21" /> – Free Circuit Simulation, Schematic Capture and Waveform Viewer Tool, Gnuplot and Plotly for graphic visualization of measured data.
 
 **Schedule and working phases**
 

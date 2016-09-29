@@ -1,8 +1,8 @@
-<img src="images\deec1553b38b39d67e245e68ea406779573a2eb6/media/image01.png" width="624" height="65" />
+<img src="images\deec1553b38b39d67e245e68ea406779573a2eb6/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
-*The Re-use Library*
+*The Re-use Library *
 
 **Pedagoginen esimerkkitapaus: Pelikulttuuri ja mediayrittäjyys (äidinkieli ja yhteiskuntaoppi, lukio)** **\[Game culture and media entrepreneurship / in Finnish\]**
 
@@ -38,14 +38,25 @@ Rakenteilla ja päivittyvä sivusto (osalla opiskelijoista vastaukset yms. omall
 
 **Trialogisten suunnitteluperiaatteiden toteutuminen**
 
-| *Suunnitteluperiaate*                                                                 | *Toteutuminen esimerkkitapauksessa*                                                                                                                                                                                                                                                                                                                                                                    |
-|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille              | Lopputöitä tehdään ryhmä- ja paritöinä                                                                                                                                                                                                                                                                                                                                                                 |
-| 2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen             | Opiskelijat tuottivat sisältöä ilmiön Google Sites -sivustolle yksilötyönä yhteiselle pohjalle kaikkien käyttöön.                                                                                                                                                                                                                                                                                      |
-| 3. Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla | Perinteiseen opettajajohtoiseen luennointiin yhdistetty opiskelijoiden itsenäistä ja pareittain tapahtuvaa tiedonhakua ja soveltamista. Opiskelijat itse keksivät lopputyöaiheen (esim. yritysidea, liiketoimintasuunnitelma) ja sen esittämismuodon myös tekniseltä toteutukseltaan. Välitön julkinen reflektointi Leijonan luolassa-                                                                 |
-| 4. Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen                | Ilmiön Google Sites -sivustoa sekä yrityselämän ja pelialan kontakteja voidaan hyödyntää ja jatkojalostaa. Yhteistyö Metropolian kanssa jatkuu ja toimintamalleja kehitetään.                                                                                                                                                                                                                          |
-| 5. Tietokäytäntöjen “ristipölytys” eri kontekstien ja yhteisöjen välillä              | Vierailuluennoilla on päästy tutustumaan pelialan yrityksiin sekä pelialan opintoihin lukion jälkeen. Luennoitsijoista osa on ollut Helsingin medialukion alumneja, jotka ovat päätyneet pelialalle. Metropolian MediaDayssa opiskelijat tutustuivat media-alan yrityksiin ja jatko-opiskelumahdollisuuksiin. InnoWorkshopissa ja InnoDayssa opiskelijat ovat etsineet ratkaisuja yritysten ongelmiin. |
-| 6. Joustavat työvälineet tukemaan trialogista oppimista                               | Opiskelijat tuottivat sisältöä ilmiön yhteiselle Google Sites -sivustolle kaikkien käyttöön. Lisäksi mediayrittäjyyskurssilla opiskelijoilla oli mahdollisuus tehdä yksin tai pareittain omaa sisältöä ja tuntitehtäviä omalle henkilökohtaiselle Google Sites -sivustolle.                                                                                                                            |
+1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille
+
+Lopputöitä tehdään ryhmä- ja paritöinä
+
+2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen Opiskelijat tuottivat sisältöä ilmiön Google Sites -sivustolle yksilötyönä yhteiselle pohjalle kaikkien käyttöön.
+
+3. Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla
+
+Perinteiseen opettajajohtoiseen luennointiin yhdistetty opiskelijoiden itsenäistä ja pareittain tapahtuvaa tiedonhakua ja soveltamista. Opiskelijat itse keksivät lopputyöaiheen (esim. yritysidea, liiketoimintasuunnitelma) ja sen esittämismuodon myös tekniseltä toteutukseltaan. Välitön julkinen reflektointi Leijonan luolassa-
+
+4. Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen
+
+Ilmiön Google Sites -sivustoa sekä yrityselämän ja pelialan kontakteja voidaan hyödyntää ja jatkojalostaa. Yhteistyö Metropolian kanssa jatkuu ja toimintamalleja kehitetään.
+
+5. Tietokäytäntöjen “ristipölytys” eri kontekstien ja yhteisöjen välillä Vierailuluennoilla on päästy tutustumaan pelialan yrityksiin sekä pelialan opintoihin lukion jälkeen. Luennoitsijoista osa on ollut Helsingin medialukion alumneja, jotka ovat päätyneet pelialalle. Metropolian MediaDayssa opiskelijat tutustuivat media-alan yrityksiin ja jatko-opiskelumahdollisuuksiin. InnoWorkshopissa ja InnoDayssa opiskelijat ovat etsineet ratkaisuja yritysten ongelmiin.
+
+6. Joustavat työvälineet tukemaan trialogista oppimista
+
+Opiskelijat tuottivat sisältöä ilmiön yhteiselle Google Sites -sivustolle kaikkien käyttöön. Lisäksi mediayrittäjyyskurssilla opiskelijoilla oli mahdollisuus tehdä yksin tai pareittain omaa sisältöä ja tuntitehtäviä omalle henkilökohtaiselle Google Sites -sivustolle.
 
 **Yksityiskohtainen kuvaus pedagogisesta toteutuksesta**
 
@@ -73,8 +84,9 @@ Tässä projektissa käytimme Google Sitesia yhteisenä oppimisalustana, mutta p
 
 **Aikataulu ja työvaiheet**
 
-|                     | Pelikulttuuri / Riikka Aurava                                                                                          | Mediayrittäjyys / Jarkko Liedes                                                                                                                          |
+|                     |                                                                                                                        |                                                                                                                                                          |
 |---------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                     | Pelikulttuuri / Riikka Aurava                                                                                          | Mediayrittäjyys / Jarkko Liedes                                                                                                                          |
 | ennen kurssin alkua | aloituskysely Google Forms, vierailukäynti Metropolian MediaDayssä                                                     |                                                                                                                                                          |
 | 1. viikko           | orientaatio, kurssin toimintaperiaatteet ja aikataulu, lopputyön pohtiminen                                            | orientointi, kurssin esittely, tavoitteet, Sites-sivuston ohjeistus, luominen, sisäinen ja ulkoinen yrittäjyys, MELU yritteliäämmäksi -harjoituspitchaus |
 | 2. viikko           | ryhmätöiden aloitus, kaksi vierailijaluentoa (suomalainen peliala ja pelialan opinnot)                                 | yritystalouden keskeiset käsitteet, yrityksen perustamisen vaiheet, InnoWorkshop                                                                         |

@@ -1,4 +1,4 @@
-<img src="images\51e115ea60071dffd1dc8b8878da6e3969c7f038/media/image01.png" width="624" height="65" />
+<img src="images\51e115ea60071dffd1dc8b8878da6e3969c7f038/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -28,13 +28,26 @@ Google Sites worked well as a collaborative tool, and the groups, in general, ma
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                                                                                                     |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | Every group had a collaborative assignment to produce material to a larger entity of human rights about various historical declarations.                                                                                                                                                                         |
-| DP2: Supporting integration of personal and collective agency and work                       | Students worked in groups. Personal agency was not emphasized. Teacher supported group work by giving advice about how to organise and conduct the work in groups.                                                                                                                                               |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | The teacher created connections between the past and the present times in the assignments, and he provided various types of information sources. Students, however, had difficulties to integrate various sources (like Wikipedia and the Internet to traditional books).                                        |
-| DP4: Fostering long-term processes of knowledge advancement                                  | The blog that was created together between several courses can and will be used later on in other lessons by the teachers.                                                                                                                                                                                       |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | The introductory lesson by an external expert gave a view to human rights in the world from the point of view of United Nations.                                                                                                                                                                                 |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Students used Google Sites as a collaborative working environment, and every group had its own page for the work. Everyone could see the work of others but the groups could edit only their own page. In addition, students had access to a blog about human rights but they did not use it during this entity. |
+**DP1: Organizing activities around shared objects**
 
+Every group had a collaborative assignment to produce material to a larger entity of human rights about various historical declarations.
 
+**DP2: Supporting integration of personal and collective agency and work**
+
+Students worked in groups. Personal agency was not emphasized. Teacher supported group work by giving advice about how to organise and conduct the work in groups.
+
+**DP3: Emphasizing development and creativity through knowledge transformations and reflection**
+
+The teacher created connections between the past and the present times in the assignments, and he provided various types of information sources. Students, however, had difficulties to integrate various sources (like Wikipedia and the Internet to traditional books).
+
+**DP4: Fostering long-term processes of knowledge advancement**
+
+The blog that was created together between several courses can and will be used later on in other lessons by the teachers.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+The introductory lesson by an external expert gave a view to human rights in the world from the point of view of United Nations.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+Students used Google Sites as a collaborative working environment, and every group had its own page for the work. Everyone could see the work of others but the groups could edit only their own page. In addition, students had access to a blog about human rights but they did not use it during this entity.

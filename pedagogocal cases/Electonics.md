@@ -1,8 +1,8 @@
-<img src="images\ccaec6f522d09369aaafed9945bff87c6b9b0bf7/media/image05.png" width="624" height="65" />
+<img src="images\ccaec6f522d09369aaafed9945bff87c6b9b0bf7/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
-*The Re-use Library*
+*The Re-use Library *
 
 **Pedagogical case**: **Electronics for aviation engineering (Electronics, Technical University)**
 
@@ -78,46 +78,61 @@ By integrating technology into learning experiences, students are more engaged i
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                     |
-|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | Collaboratively development and preparation of shared reports.                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Activities: face to face meeting for assignment tasks, defining and preliminary review of the tools used.                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Teams work organization – creating Google accounts.                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Students choose team partners according their interests and preliminary experience.                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Distributing first weekly report template to different teams.                                                                                                                                                                     |
-| DP2: Supporting integration of personal and collective agency and work                       | Coordinating participants interest – team members to do appropriate reports in order to obtain better grade.                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Motivating students to manage tasks distribution between team members having respect to deadlines (the deadline is strictly defined and the report is locked for further editing).                                                
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Collective responsibility - in the group each member takes the responsibility for their part of project tasks.                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Report evaluation depends not only on fulfilling all assigned tasks and quality of the report but on performing the tasks strictly within given period.                                                                           |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | Discussing and analyzing problems student faced during collective work on the shared object.                                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Support flexible use of various kinds of knowledge: theoretical, literary sources; practical examples and cases; pictures, interactive training tools.                                                                            
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Carefully and creatively establish, perform and operate the project development.                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Make students comment on each other’s / other groups work throughout the semester, having opponent groups who comment on each other’s first drafts, not only the final project report.                                            |
-| DP4: Fostering long-term processes of knowledge advancement                                  | Continuous working process – weekly assignments and 3 one month long projects - analysis phase, performing several simulation of explored device or circuits, calculate currents, voltage levels and other important parameters. 
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Planning and start writing the documents, sharing the drafts, getting feedback from the teacher, improving the report, using forums and blogs for discussing problems and exchanging views and opinions.                          
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Some good team reports could be used during the course as good examples for other teams, as well as after the course by the students themselves or by others (as examples or material in other courses etc.).                     |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | Students use up-to-date cloud computing collaborative tools and communication tools in order to plan, perform, organize, manage and interactively write shared project reports.                                                  |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Google Drive, Docs, Sheets for collaborative editing of the shared reports, easily reviewing and commenting.                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                *Google calendar* – for project scheduling - to set deadlines and to monitor progress – weekly assignments, intermediate stages of the project’s reporting, deadline for submission of the final project reports.                 
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                Project management – Google Apps.                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                For inter team communications students can choose their preferred tools (chat, conferences, e-mail, forums, skype for virtual meetings).                                                                                          
-                                                                                                                                                                                                                                                                                                                                  
-                                                                                                For student – teacher communications are used Google applications: Gmail, Calendar, Drive and Google+ for discussion.                                                                                                             |
+DP1: Organizing activities around shared objects
+
+Collaboratively development and preparation of shared reports.
+
+Activities: face to face meeting for assignment tasks, defining and preliminary review of the tools used.
+
+Teams work organization – creating Google accounts.
+
+Students choose team partners according their interests and preliminary experience.
+
+Distributing first weekly report template to different teams.
+
+DP2: Supporting integration of personal and collective agency and work
+
+Coordinating participants interest – team members to do appropriate reports in order to obtain better grade.
+
+Motivating students to manage tasks distribution between team members having respect to deadlines (the deadline is strictly defined and the report is locked for further editing).
+
+Collective responsibility - in the group each member takes the responsibility for their part of project tasks.
+
+Report evaluation depends not only on fulfilling all assigned tasks and quality of the report but on performing the tasks strictly within given period.
+
+DP3: Emphasizing development and creativity through knowledge transformations and reflection
+
+Discussing and analyzing problems student faced during collective work on the shared object.
+
+Support flexible use of various kinds of knowledge: theoretical, literary sources; practical examples and cases; pictures, interactive training tools.
+
+Carefully and creatively establish, perform and operate the project development.
+
+Make students comment on each other’s / other groups work throughout the semester, having opponent groups who comment on each other’s first drafts, not only the final project report.
+
+DP4: Fostering long-term processes of knowledge advancement
+
+Continuous working process – weekly assignments and 3 one month long projects - analysis phase, performing several simulation of explored device or circuits, calculate currents, voltage levels and other important parameters.
+
+Planning and start writing the documents, sharing the drafts, getting feedback from the teacher, improving the report, using forums and blogs for discussing problems and exchanging views and opinions.
+
+Some good team reports could be used during the course as good examples for other teams, as well as after the course by the students themselves or by others (as examples or material in other courses etc.).
+
+DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities
+
+Students use up-to-date cloud computing collaborative tools and communication tools in order to plan, perform, organize, manage and interactively write shared project reports.
+
+DP6: Providing flexible tools for developing artifacts and practices
+
+Google Drive, Docs, Sheets for collaborative editing of the shared reports, easily reviewing and commenting.
+
+Google calendar – for project scheduling - to set deadlines and to monitor progress – weekly assignments, intermediate stages of the project’s reporting, deadline for submission of the final project reports.
+
+Project management – Google Apps.
+
+For inter team communications students can choose their preferred tools (chat, conferences, e-mail, forums, skype for virtual meetings).
+
+For student – teacher communications are used Google applications: Gmail, Calendar, Drive and Google+ for discussion.
 
 **Detailed description of the pedagogical implementation**
 
@@ -163,11 +178,11 @@ Google Tools are used for collaborative development of a common shared object in
 
 For inter team communications students can choose their preferred tools (chat, conferences, e-mail, forums). For student – teacher communications are used Google applications: Gmail, Calendar, Drive и Google+.
 
-<img src="images\ccaec6f522d09369aaafed9945bff87c6b9b0bf7/media/image04.png" width="361" height="79" />
+<img src="images\ccaec6f522d09369aaafed9945bff87c6b9b0bf7/media/image2.png" width="361" height="79" />
 
 ***Specific tools ***
 
-*LTspice*<sup>®</sup> <img src="images\ccaec6f522d09369aaafed9945bff87c6b9b0bf7/media/image02.png" width="69" height="21" /> – Free Circuit Simulation, Schematic Capture and Waveform Viewer Tool, Gnuplot and Plotly for graphic visualization of measured data.
+*LTspice*<sup>®</sup> <img src="images\ccaec6f522d09369aaafed9945bff87c6b9b0bf7/media/image3.png" width="69" height="21" /> – Free Circuit Simulation, Schematic Capture and Waveform Viewer Tool, Gnuplot and Plotly for graphic visualization of measured data.
 
 **Schedule and working phases**
 

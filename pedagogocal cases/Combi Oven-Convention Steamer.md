@@ -1,8 +1,8 @@
-<img src="images\c4f70966888bfe391c1eb597811ef698a236a8ef/media/image01.png" width="624" height="65" />
+<img src="images\c4f70966888bfe391c1eb597811ef698a236a8ef/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
-*The Re-use Library*
+*The Re-use Library *
 
 **Pedagogical Case: Guide for Combi Oven-Convention Steamer (Physics and Italian, Vocational School)**
 
@@ -68,40 +68,55 @@ Links
 
 **Implementing the trialogical design principles**
 
-| *Design principles*                                                                          | *Implementation in the case*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organizing activities around shared objects                                             | The Object “Guide for Combi Oven-Convention Steamer” in paper format shall be hanged in the professional kitchen of the school near the oven. The Guide will summarize the oven convection steamer and will assist users to a more efficient use of the equipment. Possible recipients and users of the object created shall be: Teachers and students of the Kitchen Course within the school itself, restaurant owners, Home Users.                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                The Object have been presented to the students through the Brainstorming method. Questions and Arguments on which to make class discussion have been: Type of Guide to realize; Who we can involve in order to realize this object; Which kind of information shall be included in the Guide; In which parts the Guide could be divided (Parts of the Oven, Operating Mode, What it needs to be running, What it can produce, Cleaning and Maintenance, Safety, Physics principle involved in the Oven functioning).  |
-| DP2: Supporting integration of personal and collective agency and work                       | The Object Oven have been divided in 4-5 sub-objects; each sub-object have been assigned to one group of work. Integration of different groups is the most important part of our job in order to realize a quality final object. We tried to get in connection different groups during the activities in classroom particularly in two different phases of the project:                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                -   At start-up during the brainstorming                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                -   During the object review when each group presented the job made (draft) to the whole class.                                                                                                                                                                                                                                                                                                                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                In both cases the teacher helped students to find links and discrepancies between jobs done by different groups.                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                During second phase we applied Jigsaw Model through disassembling and reassembling of groups.                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| DP3: Fostering long-term processes of knowledge advancement                                  | An Object review phase, between the students themselves and with teachers; it helped students to reflect on the job done.                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                In this way the cognitive investigation of the object “oven” have been expanded and consolidated. The concrete goal have been **to produce together a Guide** created a great, natural “shared object” for the students. Also the involvement of teacher of cooking (end users of the Guide) during the object review have been very important.                                                                                                                                                                       |
-| DP4: Emphasizing development and creativity through knowledge transformations and reflection | Comparison of preliminary knowledge needed for using the Oven with the information present on the Guide that students are producing. Reflection on the effectiveness of the produced document (draft) for a correct use of the oven. The identification of bad practices in using the oven due to lack of knowledge.                                                                                                                                                                                                 |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | Comparison with the cooking teacher in order to:                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                -   identify the minimal knowledge about the use of the oven;                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                -   Identify typical bad practices in using of the oven;                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                Comparison with a retailer or catalog of a typical Oven in order to find the main technical aspects for the choice of the oven.                                                                                                                                                                                                                                                                                                                                                                                       |
-| DP6: Providing flexible tools for developing artifacts and practices                         | **Hardware**: Laptop, video projector, Smartphone and digital camera. **Software**: Gmail, Google Drive , piZap (Facebook).                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                In particular:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                -   Google Drive have been used for document sharing and as tools to build the Guide;                                                                                                                                                                                                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                -   Smartphone and digital camera to make photographic surveys on the oven.                                                                                                                                                                                                                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-                                                                                                -   piZap have been used for image processing activities.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+**DP1: Organizing activities around shared objects**
+
+The Object “Guide for Combi Oven-Convention Steamer” in paper format shall be hanged in the professional kitchen of the school near the oven. The Guide will summarize the oven convection steamer and will assist users to a more efficient use of the equipment. Possible recipients and users of the object created shall be: Teachers and students of the Kitchen Course within the school itself, restaurant owners, Home Users.
+
+The Object have been presented to the students through the Brainstorming method. Questions and Arguments on which to make class discussion have been: Type of Guide to realize; Who we can involve in order to realize this object; Which kind of information shall be included in the Guide; In which parts the Guide could be divided (Parts of the Oven, Operating Mode, What it needs to be running, What it can produce, Cleaning and Maintenance, Safety, Physics principle involved in the Oven functioning).
+
+**DP2: Supporting integration of personal and collective agency and work**
+
+The Object Oven have been divided in 4-5 sub-objects; each sub-object have been assigned to one group of work. Integration of different groups is the most important part of our job in order to realize a quality final object. We tried to get in connection different groups during the activities in classroom particularly in two different phases of the project:
+
+● At start-up during the brainstorming
+
+● During the object review when each group presented the job made (draft) to the whole class.
+
+In both cases the teacher helped students to find links and discrepancies between jobs done by different groups.
+
+During second phase we applied Jigsaw Model through disassembling and reassembling of groups.
+
+**DP3: Fostering long-term processes of knowledge advancement**
+
+An Object review phase, between the students themselves and with teachers; it helped students to reflect on the job done.
+
+In this way the cognitive investigation of the object “oven” have been expanded and consolidated. The concrete goal have been to produce together a Guide created a great, natural “shared object” for the students. Also the involvement of teacher of cooking (end users of the Guide) during the object review have been very important.
+
+**DP4: Emphasizing development and creativity through knowledge transformations and reflection**
+
+Comparison of preliminary knowledge needed for using the Oven with the information present on the Guide that students are producing. Reflection on the effectiveness of the produced document (draft) for a correct use of the oven. The identification of bad practices in using the oven due to lack of knowledge.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+Comparison with the cooking teacher in order to:
+
+● identify the minimal knowledge about the use of the oven;
+
+● Identify typical bad practices in using of the oven;
+
+Comparison with a retailer or catalog of a typical Oven in order to find the main technical aspects for the choice of the oven.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+Hardware: Laptop, video projector, Smartphone and digital camera. Software: Gmail, Google Drive , piZap (Facebook).
+
+In particular:
+
+● Google Drive have been used for document sharing and as tools to build the Guide;
+
+● Smartphone and digital camera to make photographic surveys on the oven.
+
+● piZap have been used for image processing activities.
 
 **Detailed description of the pedagogical implementation**
 
@@ -163,7 +178,7 @@ Below we detail goals referred to the 6 principles of the trialogical method:
 
 -   to evaluate skills of students related to the use of personal computer and basic software for typed documents (as word);
 
--   to check if all students have google account (gmail and password). Usually it happens that students have android spartphone and gmail account but they don’t remember the password; in some cases it is possible to activate password recovery procedure but in some others cases it is necessary to create a new account. This activities can take some hours of lessons.
+-   to check if all students have google account (gmail and password). Usually it happens that students have android smartphone and gmail account but they don’t remember the password; in some cases it is possible to activate password recovery procedure but in some others cases it is necessary to create a new account. This activities can take some hours of lessons.
 
 **ICT tool(s)**
 
@@ -171,9 +186,9 @@ ICT tools used in the course have been:
 
 1.  Laptop: one for each student and one with video projector for teachers.
 
-2.  smarth phones used as cameras.
+2.  smartphones used as cameras.
 
-3.  Gmail. Almost all students have a gmail address, but few of them are able to use it. Gmail have been use to communicate between teachers and students and beteween students. At the end of the project students were students were more aware of the gmail potential; they had possibility to practice with a tool already widely used in workplaces.
+3.  Gmail. Almost all students have a gmail address, but few of them are able to use it. Gmail have been use to communicate between teachers and students and between students. At the end of the project students were students were more aware of the gmail potential; they had possibility to practice with a tool already widely used in workplaces.
 
 4.  Google Drive. Tool used to share project documents. Almost all activities have been carried out using Google Drive working on line and producing documents in electronic format. Only final object have been printed in paper format.
 
@@ -189,7 +204,7 @@ ICT tools used in the course have been:
 
 Working process have been a duration of 20 hours lessons organized in 4 phases as per flow chart shown below.
 
-<img src="images\c4f70966888bfe391c1eb597811ef698a236a8ef/media/image03.png" width="222" height="343" />
+<img src="images\c4f70966888bfe391c1eb597811ef698a236a8ef/media/image2.png" width="222" height="343" />
 
 Dashed box and links refer to phases 5 and 6 projected but not implemented because of the limited time available.
 
@@ -221,7 +236,7 @@ Duration of Phase 1: 6 hours
 
     -   Operating Modes (Convention, Steamer, Mixed, Regeneration, Thermostated steam, Soft cooking, Cook & Hold, etc..)
 
-    -   Maintenance, Cleaning, Hhygiene and Safety.
+    -   Maintenance, Cleaning, Hygiene and Safety.
 
 -   Template for students logbook (2 hours)
 
@@ -229,7 +244,7 @@ Duration of Phase 1: 6 hours
 
 -   Workgroups and roles (1 hours)
 
-    -   Students have been divided into four working groups (Input/Output, Types of Oven and components, Operating Mode, Maintenance/Cleaning/Hhygiene and Safety) each of them consists of four pupils with a specific role (Communicator, Researcher, Linguist, Technician).
+    -   Students have been divided into four working groups (Input/Output, Types of Oven and components, Operating Mode, Maintenance/Cleaning/Hygiene and Safety) each of them consists of four pupils with a specific role (Communicator, Researcher, Linguist, Technician).
 
     -   The objective of rules was to empower students in activities.
 
@@ -258,7 +273,7 @@ Duration of Phase 2: 6 hours
     -   documents synthesis with creation of the guide in draft by sections.
 
     -   evaluation by teachers.
-        > Evaluation criteria are described in below section “Student evaluation”.
+        Evaluation criteria are described in below section “Student evaluation”.
 
 **Phase 3**
 
@@ -285,7 +300,7 @@ Duration of Phase 4: 2 hours
 -   Main Activities:
 
     -   Each group presented Workgroup to the teachers and to the whole class.
-        > Presentation contents:
+        Presentation contents:
 
 <!-- -->
 
@@ -304,7 +319,7 @@ Duration of Phase 4: 2 hours
 -   Guide printing in first emission (Rev. 0).
 
 -   Evaluation by teachers (projected but not realized).
-    > Evaluation criteria are described in below section “Student evaluation”.
+    Evaluation criteria are described in below section “Student evaluation”.
 
 **End**
 
@@ -339,10 +354,10 @@ Duration of Phase 6: 4 hours
 -   Main Activities:
 
     -   New workgroups formation.
-        > Each Workgroup consists of four students each one coming from a different previous group.
+        Each Workgroup consists of four students each one coming from a different previous group.
 
     -   Comments implementation.
-        > The new four workgroups have the aim to implement the comments and realize the whole Guide.
+        The new four workgroups have the aim to implement the comments and realize the whole Guide.
 
     -   Guide printing in second emission (Rev. 1).
 

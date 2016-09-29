@@ -1,4 +1,4 @@
-<img src="images\6cadf3c626bb6638b1bc8a527eaf1ddf0b8f4ee8/media/image01.png" width="624" height="65" />
+<img src="images\6cadf3c626bb6638b1bc8a527eaf1ddf0b8f4ee8/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -108,46 +108,61 @@ Student documentation and products:
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                                             |
-|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | Teams organization (students will have the ability to choose their teams by yourself).                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Collaborative development of common project, and preparation of shared                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Task distribution between the members of a team.                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Activities: regular meetings for discussion of project tasks and preliminary review of the used tools and the progress of the project development.                                                                                                        |
-| DP2: Supporting integration of personal and collective agency and work                       | Coordinating participants – team members will choose the partners they want to work with.                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Motivating students to distribute tasks between team members take the responsibility for the project deadline.                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Collective responsibility - in the group each member takes the responsibility for their project tasks.                                                                                                                                                    |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | Discussion and analysis of problems the teams faced during their collective work on the common project.                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Thoughtfully and creatively establish, conduct and operate the project development.                                                                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Practice already gained knowledge and skills in using dedicated networking equipment to solve the tasks of the project.                                                                                                                                   |
-| DP4: Fostering long-term processes of knowledge advancement                                  | Prolonged working process with iterative network configuration – performing number of analysis of the designed network to refine the network parameters and characteristics.                                                                             
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Planning and writing the documentation, sharing the drafts, asking the teacher and other students for feedback, improving the project and project documentation, submitting respective report and presenting the obtained design and simulation results.  
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Using forums, blogs and social media for discussing problems and talk about their points of view and opinions.                                                                                                                                            |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | Students contribute with specialists from the ICT industry.                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Industry professionals, teachers and students discuss and analyze collaborative experience.                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Students use modern professional tools in order to plan, organize, and execute the project tasks and write project documentation.                                                                                                                         |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Face to face and virtual meetings (Skype).                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Share materials/comment easily - Google Apps.                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Google Docs for collaborative editing and commenting. Google Drive for file sharing. Google+ for discussions.                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                As alternative a CMS based site might be a suitable solution.                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Project management – Google Apps.                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                The Google Calendar is very useful for project scheduling - related events by sending RSVP invitations.                                                                                                                                                   |
+DP1: Organising activities around shared objects
+
+Teams organization (students will have the ability to choose their teams by yourself).
+
+Collaborative development of common project, and preparation of shared
+
+Task distribution between the members of a team.
+
+Activities: regular meetings for discussion of project tasks and preliminary review of the used tools and the progress of the project development.
+
+DP2: Supporting integration of personal and collective agency and work
+
+Coordinating participants – team members will choose the partners they want to work with.
+
+Motivating students to distribute tasks between team members take the responsibility for the project deadline.
+
+Collective responsibility - in the group each member takes the responsibility for their project tasks.
+
+DP3: Emphasizing development and creativity through knowledge transformations and reflection
+
+Discussion and analysis of problems the teams faced during their collective work on the common project.
+
+Thoughtfully and creatively establish, conduct and operate the project development.
+
+Practice already gained knowledge and skills in using dedicated networking equipment to solve the tasks of the project.
+
+DP4: Fostering long-term processes of knowledge advancement
+
+Prolonged working process with iterative network configuration – performing number of analysis of the designed network to refine the network parameters and characteristics.
+
+Planning and writing the documentation, sharing the drafts, asking the teacher and other students for feedback, improving the project and project documentation, submitting respective report and presenting the obtained design and simulation results.
+
+Using forums, blogs and social media for discussing problems and talk about their points of view and opinions.
+
+DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities
+
+Students contribute with specialists from the ICT industry.
+
+Industry professionals, teachers and students discuss and analyze collaborative experience.
+
+Students use modern professional tools in order to plan, organize, and execute the project tasks and write project documentation.
+
+DP6: Providing flexible tools for developing artifacts and practices
+
+Face to face and virtual meetings (Skype).
+
+Share materials/comment easily - Google Apps.
+
+Google Docs for collaborative editing and commenting. Google Drive for file sharing. Google+ for discussions.
+
+As alternative a CMS based site might be a suitable solution.
+
+Project management – Google Apps.
+
+The Google Calendar is very useful for project scheduling - related events by sending RSVP invitations.
 
 **Detailed description of the pedagogical implementation**
 

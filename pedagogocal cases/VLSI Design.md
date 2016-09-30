@@ -1,4 +1,4 @@
-<img src="images\c7629acdf39daa9745ff33a654ce9989177bd40f/media/image01.png" width="624" height="65" />
+<img src="images\c7629acdf39daa9745ff33a654ce9989177bd40f/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -66,52 +66,67 @@ Student products (some will be attached)
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                                                                                                             |
-|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | Collaboratively development of three months long common project, preparation of shared report.                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Activities: face to face meeting for distribution project tasks, defining and preliminary review of the tools used; getting students acquainted with the phases of design cycle.                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Teams organization – creating Google accounts, giving students ability to choose team partner and form the team according their interest and previous experience.                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Task distribution between the teams, offering lists of possible projects themes. Students have also an opportunity to offer theme of their interest (based on working tasks in the company, future diploma project etc.). These need to be approved by the teacher if are relevant.                                       |
-| DP2: Supporting integration of personal and collective agency and work                       | Coordinate participants’ interest – team members to choose an appropriate project they want to develop and are interested in.                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Motivate students to manage tasks distribution between team members having respect to deadline by giving students’ responsibility to be team leader in turn. There are two strictly defined deadlines during the project cycle and performing task within given deadlines is one of the criteria for project evaluation.  
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Combining participants' own interests and shared project through assessment process – the quality of the shared project and the responsibilities to deadlines are evaluated with better grade.                                                                                                                            |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | Support versatile use of various kinds of knowledge: theoretical or literary sources; practical examples and cases; pictures, videos, models. Discus problems student faced during collective work on the shared object.                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Reflect on collective practices and knowledge.                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Make students comment on each other’s work through the semester.                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Encourage students independently and creatively initiate, lead and manage a development process.                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Require student to apply already obtained knowledge and skills in using CAD tools to resolve complex practical tasks.                                                                                                                                                                                                     |
-| DP4: Fostering long-term processes of knowledge advancement                                  | Continuous working process, iterative design process to improve circuit performance and parameters in order to fulfill technical specifications.                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Building on previous achievements from bachelor degree courses.                                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Planning and start writing the documents, sharing the drafts, getting feedback from the teacher and other students, improving the project and project report, submitting relevant documents.                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Using forums and blogs for discussing problems and exchanging views and opinions.                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                The best final team projects and their shared reports are used during the course as good examples for other teams, as well as after the course by the students themselves or by others.                                                                                                                                   |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | Students use professional tools for projects development. They are provided with professional work models and design flow cycle used in industry.                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Expert practices are modeled for students, via templates and tools.                                                                                                                                                                                                                                                       
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Students and teachers collaborate on solving a shared problem.                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                Students use up-to-date cloud computing and communication tools for planning, organizing and writing shared reports.                                                                                                                                                                                                      |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Google Drive, Docs, Sheets for collaborative editing of the project reports, reviewing and commenting.                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                *Google calendar* – to set deadlines and to monitor progress – assignments, intermediate stages reporting, deadline for submission of project.                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                For inter team communications students can choose their preferred tools (chat, conferences, e-mail, forums).                                                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                For student – teacher communications are used Google applications: Gmail, Calendar, Drive and Google+.                                                                                                                                                                                                                    |
+**DP1: Organising activities around shared objects**
+
+Collaboratively development of three months long common project, preparation of shared report.
+
+Activities: face to face meeting for distribution project tasks, defining and preliminary review of the tools used; getting students acquainted with the phases of design cycle.
+
+Teams organization – creating Google accounts, giving students ability to choose team partner and form the team according their interest and previous experience.
+
+Task distribution between the teams, offering lists of possible projects themes. Students have also an opportunity to offer theme of their interest (based on working tasks in the company, future diploma project etc.). These need to be approved by the teacher if are relevant.
+
+**DP2: Supporting integration of personal and collective agency and work**
+
+Coordinate participants’ interest – team members to choose an appropriate project they want to develop and are interested in.
+
+Motivate students to manage tasks distribution between team members having respect to deadline by giving students’ responsibility to be team leader in turn. There are two strictly defined deadlines during the project cycle and performing task within given deadlines is one of the criteria for project evaluation.
+
+Combining participants' own interests and shared project through assessment process – the quality of the shared project and the responsibilities to deadlines are evaluated with better grade.
+
+**DP3: Emphasizing development and creativity through knowledge transformations and reflection**
+
+Support versatile use of various kinds of knowledge: theoretical or literary sources; practical examples and cases; pictures, videos, models. Discus problems student faced during collective work on the shared object.
+
+Reflect on collective practices and knowledge.
+
+Make students comment on each other’s work through the semester.
+
+Encourage students independently and creatively initiate, lead and manage a development process.
+
+Require student to apply already obtained knowledge and skills in using CAD tools to resolve complex practical tasks.
+
+**DP4: Fostering long-term processes of knowledge advancement **
+
+Continuous working process, iterative design process to improve circuit performance and parameters in order to fulfill technical specifications.
+
+Building on previous achievements from bachelor degree courses.
+
+Planning and start writing the documents, sharing the drafts, getting feedback from the teacher and other students, improving the project and project report, submitting relevant documents.
+
+Using forums and blogs for discussing problems and exchanging views and opinions.
+
+The best final team projects and their shared reports are used during the course as good examples for other teams, as well as after the course by the students themselves or by others.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+Students use professional tools for projects development. They are provided with professional work models and design flow cycle used in industry.
+
+Expert practices are modeled for students, via templates and tools.
+
+Students and teachers collaborate on solving a shared problem.
+
+Students use up-to-date cloud computing and communication tools for planning, organizing and writing shared reports.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+Google Drive, Docs, Sheets for collaborative editing of the project reports, reviewing and commenting.
+
+Google calendar – to set deadlines and to monitor progress – assignments, intermediate stages reporting, deadline for submission of project.
+
+For inter team communications students can choose their preferred tools (chat, conferences, e-mail, forums).
+
+For student – teacher communications are used Google applications: Gmail, Calendar, Drive and Google+.
 
 **Detailed description of the pedagogical implementation**
 
@@ -163,7 +178,7 @@ Before the course starts the following issues needs to be done:
 
 **Tools that support co-construction of shared artifacts**
 
-LTspice<sup>®</sup> <img src="images\c7629acdf39daa9745ff33a654ce9989177bd40f/media/image03.png" width="69" height="21" /> – Circuit Simulation, Schematic Capture and Waveform Viewer Tool
+LTspice<sup>®</sup> – Circuit Simulation, Schematic Capture and Waveform Viewer Tool
 
 Gnu Electric – Layout design and layout verification tool
 

@@ -1,8 +1,8 @@
-<img src="images\65b4e7f83fb4b04b9ed17f8897e6c60996381a2b/media/image01.png" width="624" height="65" />
+<img src="images\65b4e7f83fb4b04b9ed17f8897e6c60996381a2b/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
-*The Re-use Library*
+*The Re-use Library *
 
 **Pedagogical case: Introduction to research methods (Social Sciences, University)**
 
@@ -26,14 +26,29 @@ The basic idea and structure of the course was successful, and the students appe
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                                                                                                                                    |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | A group task to produce a research plan, present one aspect of the research plan as an oral presentation, and a poster introducing the research plan at the end of the course.                                                                                                                                                                  |
-| DP2: Supporting integration of personal and collective agency and work                       | The research plan topic was negotiated between group members. Each member of a group was in turn responsible for taking care of timetables and group work. Assessment based on the evaluation of group products.                                                                                                                                |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | A complete working process with one large task (creating a research plan) conducted through several iterations and presentation modes. Peer commenting on group presentations.                                                                                                                                                                  |
-| DP4: Fostering long-term processes of knowledge advancement                                  | The research plans were made throughout the course. Each group in turn presented one aspect of the research plan to other participants; so the group products were used also as training materials for other participants during the course. The course was supposed to support planning the research for master's thesis later in the studies. |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | Course practices modelled the process of making and presenting a real research plan. The participants were international students from various background and study fields, which also created possibilities for cross-fertilization.                                                                                                           |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Timetables, guidelines and group products were shared through Moodle, and each group had a discussion forum through which they could coordinate their work. The student groups used various applications by their own choice to create presentations.                                                                                           |
+**DP1: Organizing activities around shared objects**
+
+A group task to produce a research plan, present one aspect of the research plan as an oral presentation, and a poster introducing the research plan at the end of the course.
+
+**DP2: Supporting integration of personal and collective agency and work**
+
+The research plan topic was negotiated between group members. Each member of a group was in turn responsible for taking care of timetables and group work. Assessment based on the evaluation of group products.
+
+**DP3: Emphasizing development and creativity through knowledge transformations and reflection**
+
+A complete working process with one large task (creating a research plan) conducted through several iterations and presentation modes. Peer commenting on group presentations.
+
+**DP4: Fostering long-term processes of knowledge advancement **
+
+The research plans were made throughout the course. Each group in turn presented one aspect of the research plan to other participants; so the group products were used also as training materials for other participants during the course. The course was supposed to support planning the research for master's thesis later in the studies.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+Course practices modelled the process of making and presenting a real research plan. The participants were international students from various background and study fields, which also created possibilities for cross-fertilization.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+Timetables, guidelines and group products were shared through Moodle, and each group had a discussion forum through which they could coordinate their work. The student groups used various applications by their own choice to create presentations.
 
 **Detailed description of the pedagogical implementation**
 
@@ -63,8 +78,9 @@ Moodle was used as a common platform for the whole course. Time tables, instruct
 
 **Schedule and working phases**
 
-| *Week* | *Topic*                                                                                                         |
+|        |                                                                                                                 |
 |--------|-----------------------------------------------------------------------------------------------------------------|
+| *Week* | *Topic*                                                                                                         |
 | Week 1 | Introduction: course structure and assignments, introduction to Moodle, starting the group work                 |
 | Week 2 | Organizing the group work and clarifying its topic                                                              |
 | Week 3 | Checking the proceedings of group works                                                                         |
@@ -81,8 +97,9 @@ The scale from 0 (failed) to 5 (excellent) was used in grading. Group work and g
 
 Assessment criteria for the group work and group process:
 
-| 0/5   | No effort to complete the assignments. The assignments are disorganized, the choices are invalid and they are not justified. The formal instructions of the assignments are not complied. There are severe problems in the group process: contribution of the participants is unequal, the group couldn’t agree on timetable, contribution and working methods. |
+|       |                                                                                                                                                                                                                                                                                                                                                                 |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0/5   | No effort to complete the assignments. The assignments are disorganized, the choices are invalid and they are not justified. The formal instructions of the assignments are not complied. There are severe problems in the group process: contribution of the participants is unequal, the group couldn’t agree on timetable, contribution and working methods. |
 | 1-2/5 | Some effort to complete the assignments. The assignments are quite disorganized, the choices are invalid or they are not justified at all. The formal instructions may be followed. Some problems in the group process: contribution might be unequal, the group could agree on some practical issues but not all.                                              |
 | 3/5   | All or most of the assignments are completed with effort. The assignments are well organized and clear. The choices are mostly valid but they are not sufficiently justified. The formal instructions are well complied. Only few problems in group process: contribution is quite equal, and the group could agree on most of the practical issues.            |
 | 4/5   | All the assignments are completed with effort. The assignments are well organized and clear. The choices are valid and they are mostly well justified. The formal instructions are well complied. No problems in the group process: the contribution is equal and if not, well justified, practical issues worked well.                                         |
@@ -90,8 +107,9 @@ Assessment criteria for the group work and group process:
 
 Assessment criteria for the learning journal:
 
-| 0/5   | No identification of relevant concepts and no effort to complete the assignment.                                                                                                                                                        |
+|       |                                                                                                                                                                                                                                         |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0/5   | No identification of relevant concepts and no effort to complete the assignment.                                                                                                                                                        |
 | 1-2/5 | Some identification of relevant concepts but the significance of them is not grasped, some effort to complete the assignment. The student can list things that she/he has learned but cannot describe them.                             |
 | 3/5   | The assignment is completed with effort. The student can describe and apply the relevant concepts and what she/he has learned but their significance for the whole is missing, learning is mostly described as what the student can do. |
 | 4/5   | The assignment is completed with effort. The student can compare, explain and analyze relevant concepts and what she/he has learned and she/he understands the significance of the parts in relation to the whole.                      |

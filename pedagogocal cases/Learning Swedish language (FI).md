@@ -1,4 +1,4 @@
-<img src="images\7f7acbaaf72621a96dac535e55bef47a2ecb09bf/media/image01.png" width="624" height="65" />
+<img src="images\7f7acbaaf72621a96dac535e55bef47a2ecb09bf/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -34,14 +34,29 @@ Lukion ruotsin kurssi (BB05) aloitettiin ympäristöasioita käsittelevällä te
 
 **Trialogisten suunnitteluperiaatteiden toteutuminen**
 
-| *Suunnitteluperiaate*                                                                 | *Toteutuminen esimerkkitapauksessa*                                                                                                                                                                                                                                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille              | Opiskelijat tekivät ryhmissä oman tutkimuksen; tuotokset jaettiin avoimesti kaikille. Yhteinen sisältö kaikille opiskelijoille oli ympäristöasioihin liittyvä sanasto.                                                                                                                                                                                                                                                                          |
-| 2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen             | Opiskelijat työskentelivät ryhmissä. Yksilöllistä toimijuutta ei varsinaisesti korostettu. Yhteisöllisen toimijuus syntyi vahvasta sitoutumisesta tutkimusprojektiin. Kussakin ryhmässä vetäjä vaihtui viikoittain, mikä edesauttoi kunkin osanottajan sitoutumista yhteiseen työskentelyyn.                                                                                                                                                    |
-| 3. Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla | Ryhmien tutkimusprosessiin liittyi erilaisia osatehtäviä (keskittyen sisältöä käsittelevään sanastoon), jotka tukivat myös tutkimuksen tekemistä. Opiskelijat tekivät esimerkiksi muille ryhmille Kahoot-testin sanastosta, arvioivat toistensa tutkimuksia ja saivat palautetta opettajilta ja muilta opiskelijoilta; myös itse tutkimusprosessi sisälsi vaiheita, joissa työtä arvioitiin.                                                    |
-| 4. Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen                | Työskentelyprosessi itsessään oli pitkäkestoinen ja kesti kuusi viikkoa (koko kurssin pituus). Kielitaidon kehittäminen perustuu aikaisempaan osaamiseen ja opittuja asioita voi hyödyntää myöhemmin opinnoissa.                                                                                                                                                                                                                                |
-| 5. Tietokäytäntöjen “ristipölyty” eri kontekstien ja yhteisöjen välillä               | Työskentelyyn ei liittynyt yhteistyötä ulkopuolisten tahojen kanssa, mutta opiskelijat käyttivät autenttisia lähteitä tutkimuksissaan.                                                                                                                                                                                                                                                                                                          |
-| 6. Joustavat työvälineet tukemaan trialogista oppimista                               | Useita yhteisöllisiä työkaluja oli käytössä. Kaikki työt jaettiin kaikkien opiskelijoiden kesken lukion verkko-oppimisympäristössä (Fronter), erilaisia sovelluksia käytettiin työn raportoinnissa ja ilmaisia avoimia pilvipalveluja (esim. Todaysmeet, Kahoot, Quizlet) käytettiin prosessin eri vaiheissa. Työkaluja käytettiin pääasiassa niin, että opiskelijat itse tuottivat niillä tehtäviä ja tuotoksia, vähemmän opettajajohtoisesti. |
+**1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille**
+
+Opiskelijat tekivät ryhmissä oman tutkimuksen; tuotokset jaettiin avoimesti kaikille. Yhteinen sisältö kaikille opiskelijoille oli ympäristöasioihin liittyvä sanasto.
+
+**2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen**
+
+Opiskelijat työskentelivät ryhmissä. Yksilöllistä toimijuutta ei varsinaisesti korostettu. Yhteisöllisen toimijuus syntyi vahvasta sitoutumisesta tutkimusprojektiin. Kussakin ryhmässä vetäjä vaihtui viikoittain, mikä edesauttoi kunkin osanottajan sitoutumista yhteiseen työskentelyyn.
+
+**3. Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla**
+
+Ryhmien tutkimusprosessiin liittyi erilaisia osatehtäviä (keskittyen sisältöä käsittelevään sanastoon), jotka tukivat myös tutkimuksen tekemistä. Opiskelijat tekivät esimerkiksi muille ryhmille Kahoot-testin sanastosta, arvioivat toistensa tutkimuksia ja saivat palautetta opettajilta ja muilta opiskelijoilta; myös itse tutkimusprosessi sisälsi vaiheita, joissa työtä arvioitiin.
+
+**4. Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen**
+
+Työskentelyprosessi itsessään oli pitkäkestoinen ja kesti kuusi viikkoa (koko kurssin pituus). Kielitaidon kehittäminen perustuu aikaisempaan osaamiseen ja opittuja asioita voi hyödyntää myöhemmin opinnoissa.
+
+**5. Tietokäytäntöjen “ristipölyty” eri kontekstien ja yhteisöjen välillä**
+
+Työskentelyyn ei liittynyt yhteistyötä ulkopuolisten tahojen kanssa, mutta opiskelijat käyttivät autenttisia lähteitä tutkimuksissaan.
+
+**6. Joustavat työvälineet tukemaan trialogista oppimista**
+
+Useita yhteisöllisiä työkaluja oli käytössä. Kaikki työt jaettiin kaikkien opiskelijoiden kesken lukion verkko-oppimisympäristössä (Fronter), erilaisia sovelluksia käytettiin työn raportoinnissa ja ilmaisia avoimia pilvipalveluja (esim. Todaysmeet, Kahoot, Quizlet) käytettiin prosessin eri vaiheissa. Työkaluja käytettiin pääasiassa niin, että opiskelijat itse tuottivat niillä tehtäviä ja tuotoksia, vähemmän opettajajohtoisesti.
 
 **Yksityiskohtainen kuvaus pedagogisesta toteutuksesta**
 
@@ -105,7 +120,7 @@ Opettajat arvioivat seuraavia asioita: tutkimuksen tekemisen edistyminen kurssin
 
 **Kokemukset ja parannusehdotukset**
 
-***Mikä toimi hyvin?***
+***Mikä toimi hyvin? ***
 
 -   Yleisesti projektit onnistuivat hyvin. Sekä opettajat että opiskelijat pitivät siitä ja ymmärsivät sen hyödyllisyyden tulevien opintojen ja työelämän kannalta (kerran yksi opiskelija valitti, että tutkimusprojekti vei aikaa “tavanomaiselta” opiskelulta, jossa opiskellaan kaikki kirjan kappaleet).
 

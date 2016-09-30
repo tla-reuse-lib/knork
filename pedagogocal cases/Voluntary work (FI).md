@@ -1,8 +1,8 @@
-<img src="images\19bdde7bfa507b3934d7ce766d08ab84debe90cc/media/image01.png" width="624" height="65" />
+<img src="images\19bdde7bfa507b3934d7ce766d08ab84debe90cc/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
-*The Re-use Library*
+*The Re-use Library *
 
 **Pedagoginen esimerkkitapaus: Vapaaehtoistoiminnan kurssi (psykologia, lukio) \[Voluntary work course / in Finnish\]**
 
@@ -38,14 +38,29 @@ Opiskelijat antoivat erittäin positiivista palautetta kurssista. Yhteiseen tied
 
 **Trialogisten suunnitteluperiaatteiden toteutuminen**
 
-| *Suunnitteluperiaate*                                                                 | *Toteutuminen esimerkkitapauksessa*                                                                                                                                                                                                                                                          |
-|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille              | Yhteinen ideointi ja tiedonrakentelu hyvän elämän ja ihmisoikeuksien edistämiseksi, vapaaehtoistoiminnan kenttään tutustuminen, vierailukohteiden ja konkreettisen vapaaehtoistoiminnan suunnittelu.                                                                                         |
-| 2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen             | Yhteiset vierailut ja yhteiset käytännön vapaaehtoistoiminnot sekä henkilökohtaiset vapaaehtoistoiminnot, perehtymistyö ja oppimispäiväkirja. Kokemusten ja taitojen jakaminen yhteisöllisesti.                                                                                              |
-| 3. Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla | Kokemusten ja tietojen jakaminen ja arviointi sekä suullisesti että digitaalisia työkaluja (tekstit, kuvat) käyttäen.                                                                                                                                                                        |
-| 4. Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen                | 7 viikon kurssin kokemukset vierailuista ja vierailijoista, konkreettisista vapaaehtoistehtävistä, perehtymistyön tutkimisesta ja haastatteluista jaettu ryhmissä ja sähköisesti sekä henkilökohtaisessa oppimispäiväkirjassa. Vapaaehtoistyön kentän laajuuden kartuttaminen tehty yhdessä. |
-| 5. Tietokäytäntöjen “ristipölyty” eri kontekstien ja yhteisöjen välillä               | Kurssilla integroitiin yhteistyö järjestöihin vierailijoin, vierailuin ja osallistumisella vapaaehtoistyöhön, esim. SPR, PLAN, Pakolaisapu, Ev.lut. diakoniatyö, eläinsuojelu, MLL perhetyö. Jotkut opiskelijat jatkaneet vapaaehtoistoimintaa itsenäisesti.                                 |
-| 6. Joustavat työvälineet tukemaan trialogista oppimista                               | Blogger, Fronter ja Facebook (suljettu ryhmä) kokemusten, perehtymistöiden ja kuvien jakoon sekä kurssin toiminnan julkiseen jakamiseen. Yhteinen tiedonrakentelu GoogleDrive.                                                                                                               |
+**1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille**
+
+Yhteinen ideointi ja tiedonrakentelu hyvän elämän ja ihmisoikeuksien edistämiseksi, vapaaehtoistoiminnan kenttään tutustuminen, vierailukohteiden ja konkreettisen vapaaehtoistoiminnan suunnittelu.
+
+**2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen**
+
+Yhteiset vierailut ja yhteiset käytännön vapaaehtoistoiminnot sekä henkilökohtaiset vapaaehtoistoiminnot, perehtymistyö ja oppimispäiväkirja. Kokemusten ja taitojen jakaminen yhteisöllisesti.
+
+**3. Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla**
+
+Kokemusten ja tietojen jakaminen ja arviointi sekä suullisesti että digitaalisia työkaluja (tekstit, kuvat) käyttäen.
+
+**4. Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen**
+
+7 viikon kurssin kokemukset vierailuista ja vierailijoista, konkreettisista vapaaehtoistehtävistä, perehtymistyön tutkimisesta ja haastatteluista jaettu ryhmissä ja sähköisesti sekä henkilökohtaisessa oppimispäiväkirjassa. Vapaaehtoistyön kentän laajuuden kartuttaminen tehty yhdessä.
+
+**5. Tietokäytäntöjen “ristipölyty” eri kontekstien ja yhteisöjen välillä**
+
+Kurssilla integroitiin yhteistyö järjestöihin vierailijoin, vierailuin ja osallistumisella vapaaehtoistyöhön, esim. SPR, PLAN, Pakolaisapu, Ev.lut. diakoniatyö, eläinsuojelu, MLL perhetyö. Jotkut opiskelijat jatkaneet vapaaehtoistoimintaa itsenäisesti.
+
+**6. Joustavat työvälineet tukemaan trialogista oppimista**
+
+Blogger, Fronter ja Facebook (suljettu ryhmä) kokemusten, perehtymistöiden ja kuvien jakoon sekä kurssin toiminnan julkiseen jakamiseen. Yhteinen tiedonrakentelu GoogleDrive.
 
 **Yksityiskohtainen kuvaus pedagogisesta toteutuksesta**
 

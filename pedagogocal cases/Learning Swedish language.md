@@ -1,4 +1,4 @@
-<img src="images\6835b4d5f827e21051e301547e445e0f4b43bfad/media/image01.png" width="624" height="65" />
+<img src="images\6835b4d5f827e21051e301547e445e0f4b43bfad/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -36,14 +36,29 @@ The solution was to start from the theme, environmental issues, and use language
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                                                                                                                                                       |
-|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | Groups worked with their own study; the outcomes were open to all students. A shared content for all students was the vocabulary of environmental issues.                                                                                                                                                                                                          |
-| DP2: Supporting integration of personal and collective agency and work                       | Students worked in groups. Personal agency was not emphasized. A collective agency was created through the strong commitment during the study project. Leadership of the study group changed every week which helped to create commitment of each member.                                                                                                          |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | The process of creating the study had various sub activities (concentrated on the vocabulary of the content) which helped to create also the study. Students, e.g., made a Kahoot-test about the vocabulary to others, they evaluated other group’s study and got feedback from the teacher and from other students, and the process itself had reflective phases. |
-| DP4: Fostering long-term processes of knowledge advancement                                  | The process itself was longitudinal and lasted 6 weeks (the duration of the course). Developing language competence builds on previous competence and the learned is used later on in studies.                                                                                                                                                                     |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | No special external cross-fertilization was included but students used authentic sources for their study.                                                                                                                                                                                                                                                          |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Several collaborative tools were used. The studies were available to all students in school’s learning environment (Fronter), various applications were used for reporting, free and open tools, like Todaysmeet, Kahoot, Quizlet, were used during the process. The tools were mainly used so that students created activities with them, less teacher-centered.  |
+**DP1: Organising activities around shared objects**
+
+Groups worked with their own study; the outcomes were open to all students. A shared content for all students was the vocabulary of environmental issues.
+
+**DP2: Supporting integration of personal and collective agency and work**
+
+Students worked in groups. Personal agency was not emphasized. A collective agency was created through the strong commitment during the study project. Leadership of the study group changed every week which helped to create commitment of each member.
+
+**DP3: Emphasizing development and creativity through knowledge transformations and reflection**
+
+The process of creating the study had various sub activities (concentrated on the vocabulary of the content) which helped to create also the study. Students, e.g., made a Kahoot-test about the vocabulary to others, they evaluated other group’s study and got feedback from the teacher and from other students, and the process itself had reflective phases.
+
+**DP4: Fostering long-term processes of knowledge advancement **
+
+The process itself was longitudinal and lasted 6 weeks (the duration of the course). Developing language competence builds on previous competence and the learned is used later on in studies.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+No special external cross-fertilization was included but students used authentic sources for their study.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+Several collaborative tools were used. The studies were available to all students in school’s learning environment (Fronter), various applications were used for reporting, free and open tools, like Todaysmeet, Kahoot, Quizlet, were used during the process. The tools were mainly used so that students created activities with them, less teacher-centered.
 
 **Detailed description of the pedagogical implementation**
 

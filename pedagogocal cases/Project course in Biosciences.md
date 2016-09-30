@@ -1,8 +1,8 @@
-<img src="images\f6ce0540d60c6f4cc93d8b1a18287ee3ce710fd6/media/image01.png" width="624" height="65" />
+<img src="images\f6ce0540d60c6f4cc93d8b1a18287ee3ce710fd6/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
-*The Re-use Library*
+*The Re-use Library *
 
 **Pedagogical case: Project course in Biosciences (Biosciences, University)**
 
@@ -29,21 +29,36 @@ The instructors were also mainly satisfied with the course, especially the commi
 **Materials and links**
 
 -   The materials of the first project course as well as subsequent course implementations are available in a wiki site (in Finnish):
-    > [*https://wiki.helsinki.fi/pages/viewpage.action?pageId=92540286*](https://wiki.helsinki.fi/pages/viewpage.action?pageId=92540286)
+    [*https://wiki.helsinki.fi/pages/viewpage.action?pageId=92540286*](https://wiki.helsinki.fi/pages/viewpage.action?pageId=92540286)
 
 -   A research article about the pedagogical design of knowledge creation practices, including the project course in question as one case, is published and available online: Lakkala, M., Toom, A., Ilomäki, L., & Muukkonen, H. (2015). Re-designing university courses to support collaborative knowledge creation practices. *Australasian Journal of Educational Technology, 31*(5), 521-536.
-    > [*http://ajet.org.au/index.php/AJET/article/view/2526*](http://ajet.org.au/index.php/AJET/article/view/2526)
+    [*http://ajet.org.au/index.php/AJET/article/view/2526*](http://ajet.org.au/index.php/AJET/article/view/2526)
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | Demanding project work was conducted in teams throughout the course, and a real project plan was produced for an external customer by each team. Opiskelijat ovat tuottaneet kurssilla selvityksiä tai hankesuunnitelmia, joista on laadittu raportti sekä suullinen esitelmä kurssin loppuseminaariin.                                                                     |
-| DP2: Supporting integration of personal and collective agency and work                       | Students chose the project according to their interests and decided how many study points they wanted to achieve, and each student allocated efforts to group work and course tasks accordingly. The students kept a record of their working hours. Each student was in turn responsible for leading the group work. Assessment was based on group activities and products. |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | The project work required integration of theoretical and applied domain knowledge as well as knowledge and skills about project work. Both the students, lecturers and customers evaluated the team outcomes repeatedly in group and course meetings.                                                                                                                       |
-| DP4: Fostering long-term processes of knowledge advancement                                  | The outcome of the project work (project plan) was created for real needs of the customers.                                                                                                                                                                                                                                                                                 |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | Project work training (three evenings) was given at the beginning of the course from an external expert (Logical Framework Approach). The student teams had Intensive collaboration with the external customers.                                                                                                                                                            |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Public wiki platform was used for sharing and coordinating the processes in the whole course. In addition, student teams used various cloud services based on their own choice for their communication and co-authoring needs.                                                                                                                                              |
+**DP1: Organising activities around shared objects**
+
+Demanding project work was conducted in teams throughout the course, and a real project plan was produced for an external customer by each team.
+
+**DP2: Supporting integration of personal and collective agency and work**
+
+Students chose the project according to their interests and decided how many study points they wanted to achieve, and each student allocated efforts to group work and course tasks accordingly. The students kept a record of their working hours. Each student was in turn responsible for leading the group work. Assessment was based on group activities and products.
+
+**DP3: Emphasizing development and creativity through knowledge transformations and reflection**
+
+The project work required integration of theoretical and applied domain knowledge as well as knowledge and skills about project work. Both the students, lecturers and customers evaluated the team outcomes repeatedly in group and course meetings.
+
+**DP4: Fostering long-term processes of knowledge advancement **
+
+The outcome of the project work (project plan) was created for real needs of the customers.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+Project work training (three evenings) was given at the beginning of the course from an external expert (Logical Framework Approach). The student teams had Intensive collaboration with the external customers.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+Public wiki platform was used for sharing and coordinating the processes in the whole course. In addition, student teams used various cloud services based on their own choice for their communication and co-authoring needs.
 
 **Detailed description of the pedagogical implementation**
 

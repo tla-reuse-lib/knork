@@ -1,8 +1,8 @@
-<img src="images\b0343970fbddb4ca483d46f46fb685ff3dbddb60/media/image01.png" width="624" height="65" />
+<img src="images\b0343970fbddb4ca483d46f46fb685ff3dbddb60/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
-*The Re-Use Library*
+*The Re-Use Library *
 
 **Pedagoginen esimerkkitapaus: Työharjoittelun virtuaalinen tukeminen kampaajakoulutuksessa (Värjäyskäsittelyt, Ammatillinen koulutus) \[Supporting internship in hairdresser education virtually / in Finnish\]**
 
@@ -42,16 +42,31 @@ Oli mukava havaita että opiskelijoista kehittyi verkkototeutuksen kuluessa asia
 
 **Trialogisten suunnitteluperiaatteiden toteutuminen**
 
-| *Suunnitteluperiaate*                                                                   | *Toteutuminen esimerkkitapauksessa*                                                                                                                                                                                                                                                                                                                                                              |
-|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille                | Opiskelijat työskentelivät työssäoppimisen jaksolla yksin työharjoittelussa, mutta verkkoaineistossa osa tehtävistä oli suunniteltu toteutettavaksi pieninä ryhminä, niin että opiskelijat tuottivat tietoa yhteiseen blogiin.                                                                                                                                                                   |
-| 2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen               | Opiskeluprosessin oppimistavoitteita käsiteltiin ensin yksin ja sitten yhdessä Padlet-sovelluksen avulla. Ammattitaitovaatimukset oli jaettu teemoihin, joista teemat 1-5 olivat yksilöteemoja ja teemat 6-10 pieryhmäteemoja.Yksilöteemat opiskelija voi suorittaa haluamassaa järjestyksessä ja oman aikataulunsa mukaan. Pienryhmäteemat tuotettiin yhdessä ja erikseen kirjoittaen verkossa. |
-| DP3:Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen                 | Opiskelijat työstävät opittavan ilmiön tehtäviä työssäoppimisjaksolla vähitellen. Tehtävät liittyvät suoraan työelämään ja ne julkistetaan yhteisessä blogissa. Yhdessä tuotettua tietopakettia on mahdollisuus myöhemmin täydentää, päivittää ja hyödyntää ohjauksessa.                                                                                                                         |
-| DP4: Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla | Opittavaan ilmiöön (värikäsittelypalvelujen turvalliseen tuottamiseen) perehdyttiin tuottamalla tietoa teemojen avulla yhteiseen blogiin, joka oli samalla oppimisympäristö.                                                                                                                                                                                                                     |
-| DP5: Tietokäytäntöjen “ristipölytys” eri kontekstien ja yhteisöjen välillä              | Tieto- ja työkäytäntöjen ristipölytys tapahtui luontevasti opiskelijoiden harjoitteluympäristössä, joka oli jokin kampaamoyritys.                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                                                                                           Tulevaisuuden osaamistarpeisiin kuuluu myös taito innovoida yhdessä. Opiskelijoiden toivottiin osallistavan työelämävastaavat mukaan innovoimaan ja oppimistavoitteet herättivätkin kiinnostusta.                                                                                                                                                                                                 |
-| DP6: Joustavat työvälineet tukemaan trialogista oppimista                               | Käytössä olivat älypuhelin, tabletti, Blogger, Padlet, qr-koodit ja kuvankäsittely.                                                                                                                                                                                                                                                                                                              |
+**1. Toiminnan organisoiminen yhteisesti kehitettävien kohteiden ympärille**
+
+Opiskelijat työskentelivät työssäoppimisen jaksolla yksin työharjoittelussa, mutta verkkoaineistossa osa tehtävistä oli suunniteltu toteutettavaksi pieninä ryhminä, niin että opiskelijat tuottivat tietoa yhteiseen blogiin.
+
+**2.Henkilökohtaisen ja sosiaalisen tason yhteyden ja toimijuuden tukeminen**
+
+Opiskeluprosessin oppimistavoitteita käsiteltiin ensin yksin ja sitten yhdessä Padlet-sovelluksen avulla. Ammattitaitovaatimukset oli jaettu teemoihin, joista teemat 1-5 olivat yksilöteemoja ja teemat 6-10 pieryhmäteemoja.Yksilöteemat opiskelija voi suorittaa haluamassaa järjestyksessä ja oman aikataulunsa mukaan. Pienryhmäteemat tuotettiin yhdessä ja erikseen kirjoittaen verkossa.
+
+**DP3:Pitkäjänteisen tiedonluomisen ja -kehittelyn prosessien edistäminen**
+
+Opiskelijat työstävät opittavan ilmiön tehtäviä työssäoppimisjaksolla vähitellen. Tehtävät liittyvät suoraan työelämään ja ne julkistetaan yhteisessä blogissa. Yhdessä tuotettua tietopakettia on mahdollisuus myöhemmin täydentää, päivittää ja hyödyntää ohjauksessa.
+
+**DP4: Asioiden kehittäminen eri tiedon muotojen vuorovaikutusta ja reflektiota tukemalla**
+
+Opittavaan ilmiöön (värikäsittelypalvelujen turvalliseen tuottamiseen) perehdyttiin tuottamalla tietoa teemojen avulla yhteiseen blogiin, joka oli samalla oppimisympäristö.
+
+**DP5: Tietokäytäntöjen “ristipölytys” eri kontekstien ja yhteisöjen välillä**
+
+Tieto- ja työkäytäntöjen ristipölytys tapahtui luontevasti opiskelijoiden harjoitteluympäristössä, joka oli jokin kampaamoyritys.
+
+Tulevaisuuden osaamistarpeisiin kuuluu myös taito innovoida yhdessä. Opiskelijoiden toivottiin osallistavan työelämävastaavat mukaan innovoimaan ja oppimistavoitteet herättivätkin kiinnostusta.
+
+**DP6: Joustavat työvälineet tukemaan trialogista oppimista**
+
+Käytössä olivat älypuhelin, tabletti, Blogger, Padlet, qr-koodit ja kuvankäsittely.
 
 **Yksityiskohtainen kuvaus pedagogisesta toteutumasta**
 

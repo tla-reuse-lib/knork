@@ -1,4 +1,4 @@
-<img src="images\4c0cdb8b592169b0a619a661621ebc34dae2d115/media/image01.png" width="624" height="65" />
+<img src="images\4c0cdb8b592169b0a619a661621ebc34dae2d115/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -66,60 +66,75 @@ Is it possible to have a title in each link in English so that readers can under
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                |
-|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | BRAINSTORMING                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Which is the mostly used videogame among students of the class?                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                The story and object are “disassembled”: the story of the game is narrated (time, space, characters, events etc.).                                                                                                           
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Proposal: Let’s put together a transmedia project inspired by analysis of the work Novecento by Baricco, paying particular attention to its imaginative dimension.                                                           |
-| DP2: Supporting integration of personal and collective agency and work                       | Preliminary activity                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Collective or individual reading of the chosen text                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Highlighting on the storytelling aspect of the work, thus creating an appropriate structure for the asset of the project                                                                                                     
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Class is divided in workgroups and each group will have a specific task.                                                                                                                                                     
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                -   **Group 1 –** By means of a sequential narrative structure the text will be read, structured and put in a map                                                                                                            
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                -   **Group 2** - By means of a parallel sequential narrative structure the text will be read, structured and put in a map                                                                                                   
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                -   **Group 3 -** By means of a simultaneous sequential narrative structure the text will be read, structured and put in a map                                                                                               
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                -   **Group 4 -** By means of a non –linear narrative structure the text will be read, structured and put in a map                                                                                                           
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                -   **Group 5 –** find space and time coordinates within text                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                -   **Group 6** **–** find space and time coordinates within text                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                -   **Group 7 –** find, within the text the main characters and their characteristics as regards coherence, effectiveness and tri -dimensionality                                                                            
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                The groups are disassembled and reassembled so that the need for interdependence arises and so the imaginative universe of the videogame can develop in accordance with the story itself and several expressive techniques.  |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | Students must find the narrative dimensions as regards the emotional aspect of the story.                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Choice excitement: working on the decisional power of the audience and they way they focus on the scene.                                                                                                                     
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Expanded environment: creating new digital locations or real ones which are technologically enhanced.                                                                                                                        
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Implementing narrative processes which can stimulate participation and create connections between people.                                                                                                                    |
-| DP4: Fostering long-term processes of knowledge advancement                                  | Graphical representation of characters of the narration.                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Representation and presentation of the scenes which lead to the development of the story through different points of view (single focus, dual focus, multiple focus), offering different levels of experience.               |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | Teacher presents the *Scratch* programme to class having them do some exercises on it and working on the several levels of difficulty.                                                                                      
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Students are free to use their imagination. On an interactive whiteboard (IWT) some prompts are presented that will lead to class discussion.                                                                                
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                For some students, fantasy leads to creativity. For others (those who are familiar with the difficulties of the *Scratch* platform) a practical solution for the graphic narration is found.                                 
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                Several scenes are now found after a long class discussion. The class, divided into groups again, are ready to draft the screenplay of the videogame.                                                                        
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                The model is taken from those used in cinematography which changes according to the situations.                                                                                                                              
-                                                                                                                                                                                                                                                                                                                             
-                                                                                                The platform allows students to work by using all disciplines, interacting with narrative solutions and experimenting within a community.                                                                                    |
-| DP6: Providing flexible tools for developing artifacts and practices                         | Padlet, Google Drive, Scratch                                                                                                                                                                                               |
+**DP1: Organising activities around shared objects**
+
+BRAINSTORMING
+
+Which is the mostly used videogame among students of the class?
+
+The story and object are “disassembled”: the story of the game is narrated (time, space, characters, events etc.).
+
+Proposal: Let’s put together a transmedia project inspired by analysis of the work Novecento by Baricco, paying particular attention to its imaginative dimension.
+
+**DP2: Supporting integration of personal and collective agency and work**
+
+Preliminary activity
+
+Collective or individual reading of the chosen text
+
+Highlighting on the storytelling aspect of the work, thus creating an appropriate structure for the asset of the project
+
+Class is divided in workgroups and each group will have a specific task.
+
+● Group 1 – By means of a sequential narrative structure the text will be read, structured and put in a map
+
+● Group 2 - By means of a parallel sequential narrative structure the text will be read, structured and put in a map
+
+● Group 3 - By means of a simultaneous sequential narrative structure the text will be read, structured and put in a map
+
+● Group 4 - By means of a non –linear narrative structure the text will be read, structured and put in a map
+
+● Group 5 – find space and time coordinates within text
+
+● Group 6 – find space and time coordinates within text
+
+● Group 7 – find, within the text the main characters and their characteristics as regards coherence, effectiveness and tri -dimensionality
+
+The groups are disassembled and reassembled so that the need for interdependence arises and so the imaginative universe of the videogame can develop in accordance with the story itself and several expressive techniques.
+
+**DP3: Emphasizing development and creativity through knowledge transformations and reflection**
+
+Students must find the narrative dimensions as regards the emotional aspect of the story.
+
+Choice excitement: working on the decisional power of the audience and they way they focus on the scene.
+
+Expanded environment: creating new digital locations or real ones which are technologically enhanced.
+
+Implementing narrative processes which can stimulate participation and create connections between people.
+
+**DP4: Fostering long-term processes of knowledge advancement **
+
+Graphical representation of characters of the narration.
+
+Representation and presentation of the scenes which lead to the development of the story through different points of view (single focus, dual focus, multiple focus), offering different levels of experience.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+Teacher presents the Scratch programme to class having them do some exercises on it and working on the several levels of difficulty.
+
+Students are free to use their imagination. On an interactive whiteboard (IWT) some prompts are presented that will lead to class discussion.
+
+For some students, fantasy leads to creativity. For others (those who are familiar with the difficulties of the Scratch platform) a practical solution for the graphic narration is found.
+
+Several scenes are now found after a long class discussion. The class, divided into groups again, are ready to draft the screenplay of the videogame.
+
+The model is taken from those used in cinematography which changes according to the situations.
+
+The platform allows students to work by using all disciplines, interacting with narrative solutions and experimenting within a community.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+Padlet, Google Drive, Scratch
 
 **Detailed description of the pedagogical implementation**
 
@@ -181,8 +196,9 @@ Didactical and motivational successes
 
 While students were at work, an evaluation grid was put together in order to evaluate both individual and group participation. The evaluation grid highlighted two parameters (the group and the individual) according to the various work phases.
 
-| Evaluation Grid for Collaborative and individual work   |                                                                           |
+|                                                         |                                                                           |
 |---------------------------------------------------------|---------------------------------------------------------------------------|
+| Evaluation Grid for Collaborative and individual work   |                                                                           |
 |                                                         | Give a score from 1 to 10                                                 |
 | Group Work                                              | How good was the group at gathering ideas and individual contri-          
                                                            > butions?                                                                 |

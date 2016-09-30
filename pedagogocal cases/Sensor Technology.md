@@ -1,4 +1,4 @@
-<img src="images\3188ed000fd52104f435679b77d0b44a4436272f/media/image01.png" width="624" height="65" />
+<img src="images\3188ed000fd52104f435679b77d0b44a4436272f/media/image1.png" width="624" height="65" />
 
 *Promoting Knowledge Practices in Education (KNORK) http://knork.info*
 
@@ -34,14 +34,29 @@ Some example of the Slidedoc presentation made by students (to be added)
 
 **Implementing the trialogical design principles**
 
-| *Design principle*                                                                           | *Implementation in the case*                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DP1: Organising activities around shared objects                                             | Producing content about the topic as wiki articles. The wiki website was a shared objects for the whole course, and each group had their shared object in writing their own articles in wiki. Also the seminar presentations (Slidedocs) were shared objects that were produced and evaluated together in groups.                                                                                                                                      |
-| DP2: Supporting integration of personal and collective agency and work                       | Divide the class into working pairs. Each pair picks up one or two sensors from a list and study them in detail. Students were in a central role in knowledge production. The course tasks were a combination of individual tasks (weekly self-reflection, commenting other group’s work) and group tasks (writing wiki articles).                                                                                                                     |
-| DP3: Emphasizing development and creativity through knowledge transformations and reflection | Reflection was supported systematically by weekly self-evaluation, and peer-evaluation assignments after the production of first wiki pages and the final articles. The teacher structured both the self-evaluation and the peer-evaluation by guiding questions to be answered through Moodle.                                                                                                                                                        |
-| DP4: Fostering long-term processes of knowledge advancement                                  | The working process during the course was sustained and long-term, because the students worked on their main wiki article throughout the course. Sustainability is also supported by the wiki website, which is supposed to be used, updated and constructed further in future courses.                                                                                                                                                                |
-| DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities   | The participants of the course came both from the international and Finnish study programs. In the last seminar, the groups were mixed and the Finnish students had to communicate more in English. Also another group of students with their teacher from another course participated in writing pages to the same wiki, which was a nice additional cross-fertilization feature in the course. There were no working life contacts or expert guests. |
-| DP6: Providing flexible tools for developing artifacts and practices                         | The main digital tools used in the course were 1) Moodle for sharing instructions and course materials as well as organizing reflective tasks, commenting and discussions; and 2) Confluence Wiki for co-authoring articles about the course topic. The teacher videotaped all course meetings and shared the videos through Moodle, which was a good service for students if they had to be absent from some meeting.                                 |
+**DP1: Organising activities around shared objects**
+
+Producing content about the topic as wiki articles. The wiki website was a shared objects for the whole course, and each group had their shared object in writing their own articles in wiki. Also the seminar presentations (Slidedocs) were shared objects that were produced and evaluated together in groups.
+
+**DP2: Supporting integration of personal and collective agency and work**
+
+Divide the class into working pairs. Each pair picks up one or two sensors from a list and study them in detail. Students were in a central role in knowledge production. The course tasks were a combination of individual tasks (weekly self-reflection, commenting other group’s work) and group tasks (writing wiki articles).
+
+**DP3: Emphasizing development and creativity through knowledge transformations and reflection**
+
+Reflection was supported systematically by weekly self-evaluation, and peer-evaluation assignments after the production of first wiki pages and the final articles. The teacher structured both the self-evaluation and the peer-evaluation by guiding questions to be answered through Moodle.
+
+**DP4: Fostering long-term processes of knowledge advancement **
+
+The working process during the course was sustained and long-term, because the students worked on their main wiki article throughout the course. Sustainability is also supported by the wiki website, which is supposed to be used, updated and constructed further in future courses.
+
+**DP5: Promoting cross-fertilization of knowledge practices and artifacts across communities**
+
+The participants of the course came both from the international and Finnish study programs. In the last seminar, the groups were mixed and the Finnish students had to communicate more in English. Also another group of students with their teacher from another course participated in writing pages to the same wiki, which was a nice additional cross-fertilization feature in the course. There were no working life contacts or expert guests.
+
+**DP6: Providing flexible tools for developing artifacts and practices**
+
+The main digital tools used in the course were 1) Moodle for sharing instructions and course materials as well as organizing reflective tasks, commenting and discussions; and 2) Confluence Wiki for co-authoring articles about the course topic. The teacher videotaped all course meetings and shared the videos through Moodle, which was a good service for students if they had to be absent from some meeting.
 
 **Detailed description of the pedagogical implementation**
 
